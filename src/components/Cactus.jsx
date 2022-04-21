@@ -1,7 +1,7 @@
 import React from "react";
 
 export default function Cactus(props) {
-  console.log(props);
+  // console.log(props);
   return (
     <svg
       viewBox="0 0 1920 1920"
@@ -17,7 +17,7 @@ export default function Cactus(props) {
         d="M1084.2 433.5C1071.9 416.8 1035 422.8 997.9 446C997.9 445.6 997.9 445.1 997.9 444.7C997.9 393.8 979.2 352.5 956.1 352.5C933 352.5 914.3 393.8 914.3 444.7C914.3 445.6 914.3 446.5 914.3 447.3C876.6 427.4 840.5 424.2 829.4 441.3C816.9 460.7 841.4 498.8 884.1 526.5C911.3 544.1 939.3 553.1 959.3 552.5C979.5 552.6 1007.8 541.8 1034.7 522C1075.8 491.7 1097.9 452.1 1084.2 433.5Z"
         fill={props.fillColour[0]}
         fillRule="evenodd"
-        stroke="#000000"
+        stroke="#615aa3"
         strokeWidth="12"
         strokeMiterlimit="10"
       />
@@ -27,7 +27,7 @@ export default function Cactus(props) {
         d="M1195.3 1039.3C1195.3 742.2 1157.9 501 957.8 501.3C745.3 501.7 720.3 742.1 720.3 1039.3C720.3 1107.3 725.9 1157.5 736 1194.7H1179.6C1189.8 1157.6 1195.3 1107.3 1195.3 1039.3Z"
         fill={props.fillColour[1]}
         fillRule="evenodd"
-        stroke="#000000"
+        stroke="#615aa3"
         strokeWidth="12"
         strokeMiterlimit="10"
       />
@@ -37,7 +37,7 @@ export default function Cactus(props) {
         d="M787.5 1070.1C787.5 762 831.5 512.6 885.9 512.6"
         fill={props.fillColour[2]}
         fillRule="evenodd"
-        stroke="#000000"
+        stroke="#615aa3"
         strokeWidth="12"
         strokeMiterlimit="10"
       />
@@ -47,7 +47,7 @@ export default function Cactus(props) {
         d="M1117 1070.1C1117 762 1073 512.6 1018.6 512.6"
         fill={props.fillColour[3]}
         fillRule="evenodd"
-        stroke="#000000"
+        stroke="#615aa3"
         strokeWidth="12"
         strokeMiterlimit="10"
       />
@@ -57,7 +57,7 @@ export default function Cactus(props) {
         d="M957.8 1070.1V501.4"
         fill={props.fillColour[4]}
         fillRule="evenodd"
-        stroke="#000000"
+        stroke="#615aa3"
         strokeWidth="12"
         strokeMiterlimit="10"
       />
@@ -67,7 +67,7 @@ export default function Cactus(props) {
         d="M1173.5 1567H740.9L677 1082.3H1237.5L1173.5 1567Z"
         fill={props.fillColour[5]}
         fillRule="evenodd"
-        stroke="#000000"
+        stroke="#615aa3"
         strokeWidth="12"
         strokeMiterlimit="10"
       />
@@ -77,7 +77,7 @@ export default function Cactus(props) {
         d="M1244.7 1163.5H670.8L654.8 1057.3H1264.5L1244.7 1163.5Z"
         fill={props.fillColour[6]}
         fillRule="evenodd"
-        stroke="#000000"
+        stroke="#615aa3"
         strokeWidth="12"
         strokeMiterlimit="10"
       />

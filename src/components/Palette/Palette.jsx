@@ -5,7 +5,6 @@ export default function Palette(props) {
   const colours = [
     "#E1657D",
     "#f3722c",
-
     "#CCD5AE",
     "#99B77B",
     "#52b788",
