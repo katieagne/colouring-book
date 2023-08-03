@@ -66,6 +66,15 @@
       color: #997cc9;
     }
   }
+  &__util {
+    margin-top: 20px;
+    color: #615aa3;
+    transition: 600ms ease;
+
+    &:hover {
+      color: #997cc9;
+    }
+  }
 
   &__tip-container {
     max-width: 200px;

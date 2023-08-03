@@ -13,7 +13,7 @@ export default function Palette(props) {
     "#cdb4db",
     "#CA9E67",
     "#B1804A",
-    "#212529",
+    "#41444E",
     "#001219",
   ];
 
