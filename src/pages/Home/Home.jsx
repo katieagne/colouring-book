@@ -34,7 +34,9 @@ export default function Home() {
     <div className="dashboard">
       <h1 className="dashboard__title">✨ colour a cactus ✨</h1>
       <div className="dashboard__container">
-        <Cactus fillColour={fillColour} newFill={newFillColour} />
+        <div className="dashboard__cactus-wrapper">
+          <Cactus fillColour={fillColour} newFill={newFillColour} />
+        </div>
         <Palette
           currentColour={currentColour}
           changeColour={setCurrentColour}

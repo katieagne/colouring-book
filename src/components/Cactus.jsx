@@ -1,7 +1,6 @@
 import React from "react";
 
 export default function Cactus(props) {
-  // console.log(props);
   return (
     <svg
       viewBox="0 0 1920 1920"
